@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1512664713895
+Build-Jdk: 1.8.0_152
+Built-By: SDSA
+Bundle-Description: Maven Multimodule project for AVNK Sites Project.
+Bundle-ManifestVersion: 2
+Bundle-Name: AVNK Sites Project Bundle
+Bundle-SymbolicName: com.adobe.aem.guides.avnkd-sites-guide
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Sling-Model-Packages: com.adobe.aem.guides.avnk.models
+Tool: Bnd-2.3.0.201405100607

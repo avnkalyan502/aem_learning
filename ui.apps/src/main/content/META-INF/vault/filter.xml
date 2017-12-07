@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/avnk"/>
+    <filter root="/conf/avnk" mode="merge"/>
+     <filter root="/content/avnk" mode="merge"/>
+</workspaceFilter>

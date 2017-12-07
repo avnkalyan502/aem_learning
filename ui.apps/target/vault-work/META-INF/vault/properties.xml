@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AVNK Sites Project Content Package</comment>
+<entry key="createdBy">SDSA</entry>
+<entry key="name">avnkd-sites-guide.ui.apps</entry>
+<entry key="created">2017-12-07T11:11:37.092-0500</entry>
+<entry key="groupId">com.adobe.aem.guides</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">aem-guides/avnk</entry>
+<entry key="description">Maven Multimodule project for AVNK Sites Project.</entry>
+<entry key="artifactId">avnkd-sites-guide.ui.apps</entry>
+<entry key="path">/etc/packages/aem-guides/avnk/avnkd-sites-guide.ui.apps.zip</entry>
+</properties>
